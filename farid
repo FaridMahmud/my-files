@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HV4SPMd/Zee-TV-HD-Farid.webp" group-title="Entertainment",Zee TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/Zeetvhd1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lgr4t8c/jamuna-Farid.jpg" group-title="Bangla",Jamuna TV
+https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8j6zYwP/rtvbd-Farid.jpg" group-title="Bangla", RTV
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
